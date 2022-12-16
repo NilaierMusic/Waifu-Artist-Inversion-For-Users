@@ -25,6 +25,7 @@ This repo contains embeddings, negative embeddings and their examples for a diff
 This repository contains embeddings for a different anime-related models.
 These models are:
 
+- Anything V3.0
 - NovelAI anime full pruned
 - Waifu Diffusion v1.3
 
