@@ -16,7 +16,7 @@ This repo contains embeddings, negative embeddings and their examples for a diff
 - [x] Write README.md
 - [x] Add initial embeddings
 - [ ] Add some cool images, because this is so gloomy to read
-- [ ] Add AnythingV3 embeddings
+- [x] Add AnythingV3 embeddings
 - [ ] Add Waifu Diffusion v1.4 embeddings
 - [ ] Create a discord server
 
