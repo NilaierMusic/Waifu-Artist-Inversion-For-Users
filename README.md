@@ -69,4 +69,4 @@ If you want me to remove embeddings assosiated with your style. Please, send me 
 Soon (or not)
 
 ## Loli Counter
-![:Repo Visits](https://count.getloli.com/get/@Waifu-Artist-Inversion-For-Users?theme=gelbooru)
+<img src="https://count.getloli.com/get/@Waifu-Artist-Inversion-For-Users?theme=rule34" height="300">
