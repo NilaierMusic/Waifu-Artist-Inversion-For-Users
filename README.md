@@ -18,6 +18,7 @@ This repo contains embeddings, negative embeddings and their examples for a diff
 - [ ] Add some cool images, because this is so gloomy to read
 - [x] Add AnythingV3 embeddings
 - [ ] Add Waifu Diffusion v1.4 embeddings
+- [ ] Add Anifusion embeddings?
 - [ ] Create a discord server
 
 ## 📁Structure📁
@@ -66,3 +67,6 @@ If you want me to remove embeddings assosiated with your style. Please, send me 
 
 ## Discord Server![Discord](https://files.catbox.moe/v3q557.png)
 Soon (or not)
+
+## Loli Counter
+![:Repo Visits](https://count.getloli.com/get/@Waifu-Artist-Inversion-For-Users?theme=gelbooru)
